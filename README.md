@@ -1,1 +1,2 @@
-# Loop-Menu-System
+# Interactive Math and String Utility Program
+Menu-driven system with 5 options which allows users to perform various mathematical and string-based operations using loops. The program continues to execute until the user decides to exit.
